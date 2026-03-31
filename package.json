@@ -1,0 +1,19 @@
+{
+  "name": "@vibetokens/skills",
+  "version": "1.0.0",
+  "description": "Claude Code skills for Vibe Tokens — Remotion video generation, VT content workflow, and blog publishing.",
+  "keywords": [
+    "claude-code",
+    "claude-code-skills",
+    "remotion",
+    "agent-skills",
+    "vibetokens"
+  ],
+  "author": "Vibe Tokens <hello@vibetokens.io>",
+  "license": "MIT",
+  "homepage": "https://vibetokens.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vibetokens/skills.git"
+  }
+}
